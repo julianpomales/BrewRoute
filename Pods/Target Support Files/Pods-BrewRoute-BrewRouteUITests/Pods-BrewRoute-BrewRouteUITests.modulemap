@@ -1,6 +1,0 @@
-module Pods_BrewRoute_BrewRouteUITests {
-  umbrella header "Pods-BrewRoute-BrewRouteUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
