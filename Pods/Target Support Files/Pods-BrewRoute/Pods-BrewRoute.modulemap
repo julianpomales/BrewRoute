@@ -1,0 +1,6 @@
+module Pods_BrewRoute {
+  umbrella header "Pods-BrewRoute-umbrella.h"
+
+  export *
+  module * { export * }
+}
